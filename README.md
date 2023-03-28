@@ -6,6 +6,8 @@ by the University of Dayton chapter of the Association for Computing Machinery
 
 This is just something we decided to do for fun. A little exercise in computer science, if you will.
 
+---
+
 Some directories/files in this project are ignored (or *should* be ignored) by repository "ignore" files:
 
 	/build               Build directory.
