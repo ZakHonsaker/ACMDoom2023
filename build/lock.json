@@ -1,0 +1,16 @@
+{
+	"agentIsRunning": false,
+	"dirHashes": {
+		"src/convert/flats": "77366bbbe87c861bc27ea0ffdf826747277c7d22",
+		"src/convert/texture1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"src/convert/graphics": "e77e3cbc902b36ee20c7840fe552be0f72bf222a",
+		"src/convert/texture2": "ba9178a87dfa2769695e83b58729d0e1cac96f8e",
+		"src/maps": "a0a5d3f882b77a8a20cea1f2cfd776e54c6a844d",
+		"src/convert/sounds": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"src/convert/patches": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"src/textures": "1e0969fb90e172cf873ae17f0c084a06c7d40108",
+		"src/convert/colormaps": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"src/assets": "6b43d45d10d95aef47da61946a8b9d22afc72cda",
+		"src/convert/sprites": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+	}
+}
