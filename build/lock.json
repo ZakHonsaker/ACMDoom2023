@@ -1,16 +1,16 @@
 {
-	"agentIsRunning": false,
+	"agentIsRunning": false, 
 	"dirHashes": {
-		"src/convert/flats": "77366bbbe87c861bc27ea0ffdf826747277c7d22",
-		"src/convert/texture1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-		"src/convert/graphics": "e77e3cbc902b36ee20c7840fe552be0f72bf222a",
-		"src/convert/texture2": "ba9178a87dfa2769695e83b58729d0e1cac96f8e",
-		"src/maps": "a0a5d3f882b77a8a20cea1f2cfd776e54c6a844d",
-		"src/convert/sounds": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-		"src/convert/patches": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-		"src/textures": "1e0969fb90e172cf873ae17f0c084a06c7d40108",
-		"src/convert/colormaps": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-		"src/assets": "6b43d45d10d95aef47da61946a8b9d22afc72cda",
-		"src/convert/sprites": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+		"src/assets": "047a5c077f026768420a5b5196a6888d5eb310bf", 
+		"src/convert/colormaps": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+		"src/convert/flats": "8b8f2e8537d84123f698bac06e27a944c3ee7b69", 
+		"src/convert/graphics": "9806b10e4d0e6de51dc0e97ebe27f35a8251ea90", 
+		"src/convert/patches": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+		"src/convert/sounds": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+		"src/convert/sprites": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+		"src/convert/texture1": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+		"src/convert/texture2": "b77f9a2f6a4905d38d3cc4f98b4049e40d193d0f", 
+		"src/maps": "6de4f80df759610fed7ae8aa82a3dd609789b994", 
+		"src/textures": "5d65218fc724aca9c1ffd3ce641eaad52f361348"
 	}
 }
